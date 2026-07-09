@@ -5,8 +5,6 @@ class Solution(object):
         shortest=min(strs,key=len)
         for i in range(len(shortest)):
             for word in strs:
-                if word == shortest:
-                    continue
                 if word[i]!=shortest[i]:
                     return shortest[:i]
        
