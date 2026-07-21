@@ -1,19 +1,15 @@
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
-        """
-        :type ransomNote: str
-        :type magazine: str
-        :rtype: bool
-        """
-        # Convert the magazine into a list so we can remove characters as we use them
-        magazine_chars = list(magazine)
-        
-        for char in ransomNote:
-            if char in magazine_chars:
-                # Remove the used character so it can't be reused
-                magazine_chars.remove(char)
-            else:
-                # If the character isn't available, we can't build the note
+        count = {}
+
+        # Count each character in magazine
+        for ch in magazine:
+            count[ch] = count.get(ch, 0) + 1
+
+        # Check if ransomNote can be formed
+        for ch in ransomNote:
+            if ch not in count or count[ch] == 0:
                 return False
-                
+            count[ch] -= 1
+
         return True
