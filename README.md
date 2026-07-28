@@ -13,5 +13,10 @@ leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
