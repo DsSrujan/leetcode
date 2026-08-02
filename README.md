@@ -15,6 +15,7 @@ leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/DsSrujan/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/DsSrujan/leetcode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/DsSrujan/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/DsSrujan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
