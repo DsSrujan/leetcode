@@ -11,6 +11,7 @@ leetcode questions
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ leetcode questions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Prefix Sum
 |  |
@@ -51,4 +53,12 @@ leetcode questions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
