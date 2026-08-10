@@ -11,6 +11,7 @@ leetcode questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DsSrujan/leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ leetcode questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DsSrujan/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DsSrujan/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/DsSrujan/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/DsSrujan/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -45,6 +47,7 @@ leetcode questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/DsSrujan/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/DsSrujan/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/DsSrujan/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DsSrujan/leetcode/tree/master/0206-reverse-linked-list) |
