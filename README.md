@@ -12,6 +12,7 @@ leetcode questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DsSrujan/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
@@ -27,6 +28,7 @@ leetcode questions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Prefix Sum
@@ -54,6 +56,7 @@ leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
