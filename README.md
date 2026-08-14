@@ -10,6 +10,7 @@ leetcode questions
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DsSrujan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ leetcode questions
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ leetcode questions
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -69,6 +72,7 @@ leetcode questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +98,7 @@ leetcode questions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -102,6 +107,7 @@ leetcode questions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
