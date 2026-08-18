@@ -5,6 +5,7 @@ leetcode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,6 +67,7 @@ leetcode questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DsSrujan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
