@@ -8,6 +8,7 @@ leetcode questions
 | [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
@@ -21,6 +22,7 @@ leetcode questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/DsSrujan/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
