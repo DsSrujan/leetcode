@@ -1,32 +1,23 @@
 class Solution(object):
     def removeNthFromEnd(self, head, n):
 
-        # Reverse function
-        def reverse(head):
-            prev = None
-            current = head
+        # Dummy node handles deleting the head easily
+        dummy = ListNode(0)
+        dummy.next = head
 
-            while current:
-                nxt = current.next
-                current.next = prev
-                prev = current
-                current = nxt
+        slow = dummy
+        fast = dummy
 
-            return prev
+        # Move fast n + 1 steps ahead
+        for _ in range(n + 1):
+            fast = fast.next
 
-        # Step 1: Reverse the list
-        head = reverse(head)
+        # Move both pointers together
+        while fast:
+            slow = slow.next
+            fast = fast.next
 
-        # Step 2: Delete nth node from the beginning
-        if n == 1:
-            head = head.next
-        else:
-            current = head
+        # slow is now just before the node to delete
+        slow.next = slow.next.next
 
-            for _ in range(n - 2):
-                current = current.next
-
-            current.next = current.next.next
-
-        # Step 3: Reverse again
-        return reverse(head)
+        return dummy.next
