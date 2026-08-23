@@ -1,5 +1,6 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
+        #challenge
         chars = set()
         left = 0
         max_len = 0
