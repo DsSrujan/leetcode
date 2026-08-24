@@ -10,6 +10,7 @@ leetcode questions
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
@@ -150,4 +151,8 @@ leetcode questions
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
