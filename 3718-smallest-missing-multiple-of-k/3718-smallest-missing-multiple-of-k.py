@@ -5,6 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
+        nums=set(nums)
         j=1
         for i in range(len(nums)+1):
             if k*j  in nums:
