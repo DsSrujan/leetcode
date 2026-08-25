@@ -5,10 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        s=set(nums)
         j=1
         for i in range(len(nums)+1):
-            if k*j  in s:
+            if k*j  in nums:
                 j+=1
             else:
                  return k*j
