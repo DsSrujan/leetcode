@@ -7,8 +7,9 @@ class Solution(object):
         """
         j=1
         for i in range(len(nums)+1):
-            if k*j not in nums:
-                return k*j
-            j+=1
+            if k*j  in nums:
+                j+=1
+            else:
+                 return k*j
 
         
