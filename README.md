@@ -8,6 +8,7 @@ leetcode questions
 | [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@ leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DsSrujan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DsSrujan/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -83,6 +85,7 @@ leetcode questions
 | [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DsSrujan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
@@ -135,6 +138,7 @@ leetcode questions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
