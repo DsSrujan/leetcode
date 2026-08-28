@@ -54,6 +54,7 @@ leetcode questions
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DsSrujan/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
@@ -161,6 +162,7 @@ leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
