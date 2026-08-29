@@ -163,6 +163,7 @@ leetcode questions
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -172,4 +173,8 @@ leetcode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
