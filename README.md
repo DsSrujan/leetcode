@@ -19,6 +19,7 @@ leetcode questions
 | [0238-product-of-array-except-self](https://github.com/DsSrujan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DsSrujan/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -159,6 +160,7 @@ leetcode questions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
 |  |
 | ------- |
