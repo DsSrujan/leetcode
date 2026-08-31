@@ -7,6 +7,7 @@ leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/DsSrujan/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/DsSrujan/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
@@ -38,6 +39,7 @@ leetcode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DsSrujan/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DsSrujan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DsSrujan/leetcode/tree/master/0061-rotate-list) |
@@ -159,6 +161,7 @@ leetcode questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/DsSrujan/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Stack
