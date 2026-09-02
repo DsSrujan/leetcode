@@ -23,6 +23,7 @@ leetcode questions
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DsSrujan/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DsSrujan/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ leetcode questions
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DsSrujan/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/DsSrujan/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
