@@ -23,6 +23,7 @@ leetcode questions
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DsSrujan/leetcode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/DsSrujan/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DsSrujan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DsSrujan/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -175,6 +176,7 @@ leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DsSrujan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DsSrujan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Greedy
 |  |
 | ------- |
