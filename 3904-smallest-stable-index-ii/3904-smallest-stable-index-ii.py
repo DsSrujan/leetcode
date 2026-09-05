@@ -2,7 +2,7 @@ class Solution(object):
     def firstStableIndex(self, nums, k):
         n = len(nums)
 
-        # suffix_min[i] = minimum from i to n-1
+        
         suffix_min = [0] * n
         suffix_min[n - 1] = nums[n - 1]
 
