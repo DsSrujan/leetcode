@@ -70,6 +70,7 @@ leetcode questions
 | [0058-length-of-last-word](https://github.com/DsSrujan/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
@@ -195,6 +196,7 @@ leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
