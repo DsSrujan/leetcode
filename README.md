@@ -77,6 +77,7 @@ leetcode questions
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DsSrujan/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/DsSrujan/leetcode/tree/master/0409-longest-palindrome) |
+| [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
@@ -202,6 +203,7 @@ leetcode questions
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Matrix
 |  |
 | ------- |
