@@ -5,8 +5,8 @@ class Solution(object):
         :rtype: bool
         """
         a=set()
-        for num in nums:
-            if num in a:
+        for n in nums:
+            if n in a :
                 return True 
-            a.add(num)
+            a.add(n)
         return False
