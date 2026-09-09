@@ -11,4 +11,4 @@ class Solution(object):
                 d[a]=[w]
             else:
                 d[a].append(w)
-        return list(d.values())
+        return d.values()
