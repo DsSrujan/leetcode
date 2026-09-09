@@ -21,6 +21,7 @@ leetcode questions
 | [0238-product-of-array-except-self](https://github.com/DsSrujan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DsSrujan/leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/DsSrujan/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +89,7 @@ leetcode questions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DsSrujan/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/DsSrujan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DsSrujan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/DsSrujan/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DsSrujan/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -123,6 +125,7 @@ leetcode questions
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/DsSrujan/leetcode/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/DsSrujan/leetcode/tree/master/0904-fruit-into-baskets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DsSrujan/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Floyd's Cycle Finding Algorithm
