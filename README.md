@@ -77,6 +77,7 @@ leetcode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DsSrujan/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/DsSrujan/leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DsSrujan/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
@@ -228,6 +229,7 @@ leetcode questions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
@@ -265,4 +267,8 @@ leetcode questions
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/DsSrujan/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
