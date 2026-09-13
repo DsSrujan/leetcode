@@ -25,6 +25,7 @@ leetcode questions
 | [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DsSrujan/leetcode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/DsSrujan/leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/DsSrujan/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/DsSrujan/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/DsSrujan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -240,6 +241,7 @@ leetcode questions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
+| [0835-image-overlap](https://github.com/DsSrujan/leetcode/tree/master/0835-image-overlap) |
 ## Design
 |  |
 | ------- |
