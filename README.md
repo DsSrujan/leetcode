@@ -161,12 +161,14 @@ leetcode questions
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -177,6 +179,7 @@ leetcode questions
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
@@ -233,6 +236,7 @@ leetcode questions
 | [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
