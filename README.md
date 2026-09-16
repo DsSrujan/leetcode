@@ -166,6 +166,7 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -173,6 +174,7 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -180,10 +182,12 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DsSrujan/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
