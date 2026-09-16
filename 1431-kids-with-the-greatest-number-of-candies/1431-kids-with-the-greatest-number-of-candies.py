@@ -7,10 +7,11 @@ class Solution(object):
 
         """
         m=max(candies)
-        a=[]
-        for  n in candies:
-            if n+extraCandies>=m:
-                a.append(True)
+        
+        for  i in range(len(candies)):
+            if candies[i]+extraCandies>=m:
+                candies[i]=True
             else :
-                a.append(False)
-        return a
+                candies[i]=False
+        return candies
+
