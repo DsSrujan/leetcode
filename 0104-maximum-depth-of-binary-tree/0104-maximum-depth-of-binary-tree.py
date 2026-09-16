@@ -10,11 +10,11 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        def maxD(node):
-            if not node :
-                return 0
-            l=maxD(node.left)
-            r=maxD(node.right)
+        
+        if not root :
+            return 0
+        l=self.maxDepth(root.left)
+        r=self.maxDepth(root.right)
 
-            return 1+ max(l,r)
-        return maxD(root)        
+        return 1+ max(l,r)
+                
