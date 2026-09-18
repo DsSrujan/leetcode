@@ -166,6 +166,7 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DsSrujan/leetcode/tree/master/0112-path-sum) |
@@ -177,6 +178,7 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DsSrujan/leetcode/tree/master/0112-path-sum) |
@@ -188,12 +190,14 @@ leetcode questions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DsSrujan/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DsSrujan/leetcode/tree/master/0112-path-sum) |
