@@ -100,6 +100,7 @@ leetcode questions
 | [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/DsSrujan/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -164,6 +165,7 @@ leetcode questions
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
 | ------- |
