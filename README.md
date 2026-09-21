@@ -24,6 +24,7 @@ leetcode questions
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DsSrujan/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/DsSrujan/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/DsSrujan/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
