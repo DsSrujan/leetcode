@@ -9,16 +9,17 @@ class Solution(object):
         """
         :type root: Optional[TreeNode]
         :type targetSum: int
-        :rtype: bool
-        """
-        def hp(root,targetSum):
+        :rtype: bool"""
+        def hs(root,targetSum):
             if not root:
-                return False 
-            if root.left==None and root.right==None and targetSum==root.val:
-                return True 
+                return False
             targetSum-=root.val
-            l=hp(root.left, targetSum)
-            r=hp(root.right,targetSum)
+            if root.left==None and root.right==None and targetSum==0:
+                return True 
+            l=hs(root.left, targetSum)
+            r=hs(root.right,targetSum)
             return l or r
-        return hp(root,targetSum)
-        
+        return hs(root,targetSum)
+
+            
+       
