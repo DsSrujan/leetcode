@@ -12,6 +12,7 @@ leetcode questions
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/DsSrujan/leetcode/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ leetcode questions
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DsSrujan/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/DsSrujan/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/DsSrujan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -257,6 +259,7 @@ leetcode questions
 | ------- |
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DsSrujan/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/DsSrujan/leetcode/tree/master/0217-contains-duplicate) |
@@ -351,4 +354,12 @@ leetcode questions
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DsSrujan/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
