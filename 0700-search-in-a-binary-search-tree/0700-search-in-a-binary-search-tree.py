@@ -6,11 +6,7 @@
 #         self.right = right
 class Solution(object):
     def searchBST(self, root, val):
-        """
-        :type root: Optional[TreeNode]
-        :type val: int
-        :rtype: Optional[TreeNode]
-        """
+        
         def sbst(root, val):
             if not root:
                 return None 
