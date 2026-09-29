@@ -1,9 +1,6 @@
 class Solution(object):
     def findLucky(self, arr):
-        """
-        :type arr: List[int]
-        :rtype: int
-        """
+        
         m=0
         a={}
         for i in arr:
