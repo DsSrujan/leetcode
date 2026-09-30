@@ -88,6 +88,7 @@ leetcode questions
 | [0344-reverse-string](https://github.com/DsSrujan/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/DsSrujan/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/DsSrujan/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/DsSrujan/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DsSrujan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -110,6 +111,7 @@ leetcode questions
 | [0344-reverse-string](https://github.com/DsSrujan/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/DsSrujan/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/DsSrujan/leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -314,6 +316,7 @@ leetcode questions
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/DsSrujan/leetcode/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DsSrujan/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
