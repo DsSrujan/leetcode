@@ -1,14 +1,16 @@
 class Solution(object):
     def isValid(self, s):
-        st=[]
-        p={")":"(","}":"{","]":"["}
-        for c in s:
-            if c in "({[":
-                st.append(c)
+        d={")":"(","}":"{","]":"["}
+        a=[]
+        for n in s:
+            
+            if n in "({[":
+                a.append(n)
             else:
-                if not st:
+                if  not a :
                     return False
-                if st[-1]!=p[c]:
+                if a[-1]!=d[n]:
                     return False
-                st.pop()
-        return len(st)==0
+                a.pop() 
+                
+        return len(a)==0
