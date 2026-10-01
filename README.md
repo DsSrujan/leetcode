@@ -11,6 +11,7 @@ leetcode questions
 | [0015-3sum](https://github.com/DsSrujan/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/DsSrujan/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/DsSrujan/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -282,6 +283,7 @@ leetcode questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DsSrujan/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/DsSrujan/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DsSrujan/leetcode/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
@@ -314,6 +316,7 @@ leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DsSrujan/leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DsSrujan/leetcode/tree/master/0392-is-subsequence) |
