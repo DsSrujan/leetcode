@@ -46,6 +46,7 @@ leetcode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/DsSrujan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/DsSrujan/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DsSrujan/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DsSrujan/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -335,6 +336,7 @@ leetcode questions
 | ------- |
 | [0048-rotate-image](https://github.com/DsSrujan/leetcode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/DsSrujan/leetcode/tree/master/0835-image-overlap) |
+| [2643-row-with-maximum-ones](https://github.com/DsSrujan/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Design
 |  |
 | ------- |
