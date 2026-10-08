@@ -119,6 +119,7 @@ leetcode questions
 | [0409-longest-palindrome](https://github.com/DsSrujan/leetcode/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/DsSrujan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/DsSrujan/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/DsSrujan/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -324,6 +325,7 @@ leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/DsSrujan/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -369,6 +371,7 @@ leetcode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DsSrujan/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
