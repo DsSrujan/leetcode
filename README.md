@@ -31,6 +31,7 @@ leetcode questions
 | [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/DsSrujan/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/DsSrujan/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/DsSrujan/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DsSrujan/leetcode/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/DsSrujan/leetcode/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/DsSrujan/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -176,6 +177,7 @@ leetcode questions
 | [0387-first-unique-character-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/DsSrujan/leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/DsSrujan/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DsSrujan/leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/DsSrujan/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DsSrujan/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DsSrujan/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -193,6 +195,7 @@ leetcode questions
 | ------- |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/DsSrujan/leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -289,6 +292,7 @@ leetcode questions
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/DsSrujan/leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/DsSrujan/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DsSrujan/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DsSrujan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
