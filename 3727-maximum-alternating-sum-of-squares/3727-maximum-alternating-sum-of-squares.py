@@ -5,5 +5,5 @@ class Solution:
         nums.sort()
         n=len(nums)
         m=n//2
-        return sum(nums[m:n])-sum(nums[:m])
+        return sum(nums) - 2 * sum(nums[i] for i in range(m))
         
