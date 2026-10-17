@@ -14,6 +14,6 @@ class Solution:
                 a.append(int(y/x))
             else:
                 a.append(int(n))
-        return a.pop()
+        return a[-1]
 
         
