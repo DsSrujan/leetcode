@@ -17,6 +17,7 @@ leetcode questions
 | [0075-sort-colors](https://github.com/DsSrujan/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DsSrujan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/DsSrujan/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ leetcode questions
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/DsSrujan/leetcode/tree/master/0836-rectangle-overlap) |
@@ -342,6 +344,7 @@ leetcode questions
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/DsSrujan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1021-remove-outermost-parentheses) |
