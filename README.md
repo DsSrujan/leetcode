@@ -50,6 +50,7 @@ leetcode questions
 | [1732-find-the-highest-altitude](https://github.com/DsSrujan/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/DsSrujan/leetcode/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DsSrujan/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2643-row-with-maximum-ones](https://github.com/DsSrujan/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DsSrujan/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -286,6 +287,7 @@ leetcode questions
 | [0704-binary-search](https://github.com/DsSrujan/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/DsSrujan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DsSrujan/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DsSrujan/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DsSrujan/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Newton's Method
 |  |
@@ -308,6 +310,7 @@ leetcode questions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DsSrujan/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DsSrujan/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/DsSrujan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DsSrujan/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DsSrujan/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DsSrujan/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
