@@ -4,7 +4,8 @@ class Solution:
         maxi=w_s
         for i in range(k, len(nums)):
             w_s=w_s-nums[i-k]+nums[i]
-            maxi=max(w_s,maxi)
+            if w_s>maxi:
+                maxi=w_s
         return maxi/k
         
         
