@@ -76,6 +76,7 @@ leetcode questions
 | [0066-plus-one](https://github.com/DsSrujan/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DsSrujan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DsSrujan/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DsSrujan/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
@@ -357,6 +358,7 @@ leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DsSrujan/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DsSrujan/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DsSrujan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DsSrujan/leetcode/tree/master/0392-is-subsequence) |
@@ -446,4 +448,8 @@ leetcode questions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DsSrujan/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DsSrujan/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
