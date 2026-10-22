@@ -1,15 +1,16 @@
-class Solution(object):
-    def maxProfit(self, prices):
-        cheapest = prices[0]
-        maxi = 0
+class Solution:
+    def maxProfit(self, prices: list[int]) -> int:
+        cheap=prices[0]
+        maxi=0
 
-        for price in prices:
-            if price < cheapest:
-                cheapest = price
+        for n in prices:
+            if n< cheap:
+                cheap=n
+            p=n-cheap
 
-            profit = price - cheapest
+            if p>maxi:
+                maxi=p
+        return maxi 
 
-            if profit > maxi:
-                maxi = profit
 
-        return maxi
+        
