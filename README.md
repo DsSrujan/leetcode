@@ -83,6 +83,7 @@ leetcode questions
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/DsSrujan/leetcode/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/DsSrujan/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DsSrujan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DsSrujan/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DsSrujan/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -140,6 +141,7 @@ leetcode questions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DsSrujan/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/DsSrujan/leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DsSrujan/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
