@@ -82,6 +82,7 @@ leetcode questions
 | [0070-climbing-stairs](https://github.com/DsSrujan/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/DsSrujan/leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/DsSrujan/leetcode/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/DsSrujan/leetcode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/DsSrujan/leetcode/tree/master/2409-count-days-spent-together) |
@@ -128,6 +129,7 @@ leetcode questions
 | [0115-distinct-subsequences](https://github.com/DsSrujan/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/DsSrujan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DsSrujan/leetcode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/DsSrujan/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/DsSrujan/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DsSrujan/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -178,6 +180,7 @@ leetcode questions
 | [0024-swap-nodes-in-pairs](https://github.com/DsSrujan/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/DsSrujan/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DsSrujan/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/DsSrujan/leetcode/tree/master/0224-basic-calculator) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DsSrujan/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -361,6 +364,7 @@ leetcode questions
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/DsSrujan/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/DsSrujan/leetcode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/DsSrujan/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DsSrujan/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
