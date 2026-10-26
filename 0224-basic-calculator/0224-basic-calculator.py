@@ -1,42 +1,31 @@
-
 class Solution:
     def calculate(self, s: str) -> int:
         stack = []
-        result = 0
-        num = 0
+        res = 0
+        curr = 0
         sign = 1
-        i = 0
 
-        while i < len(s):
-            ch = s[i]
-
-            if ch.isdigit():
-                num = num * 10 + int(ch)
-
-            elif ch == '+':
-                result += sign * num
-                num = 0
+        for c in s:
+            if c.isdigit():
+                curr = curr * 10 + int(c)
+            elif c == '+':
+                res += sign * curr
                 sign = 1
-
-            elif ch == '-':
-                result += sign * num
-                num = 0
+                curr = 0
+            elif c == '-':
+                res += sign * curr
                 sign = -1
-
-            elif ch == '(':
-                stack.append(result)
+                curr = 0
+            elif c == '(':
+                stack.append(res)
                 stack.append(sign)
-                result = 0
+                res = 0
                 sign = 1
+            elif c == ')':
+                res += sign * curr
+                curr = 0
+                res *= stack.pop()
+                res += stack.pop()
 
-            elif ch == ')':
-                result += sign * num
-                num = 0
-
-                result *= stack.pop()
-                result += stack.pop()
-
-            i += 1
-
-        result += sign * num
-        return result
+        res += sign * curr
+        return res
