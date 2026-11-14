@@ -496,6 +496,7 @@ leetcode questions
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/DsSrujan/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/DsSrujan/leetcode/tree/master/0595-big-countries) |
 ## Trie
 |  |
 | ------- |
