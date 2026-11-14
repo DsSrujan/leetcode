@@ -66,6 +66,7 @@ leetcode questions
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DsSrujan/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/DsSrujan/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DsSrujan/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DsSrujan/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DsSrujan/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DsSrujan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -169,6 +170,7 @@ leetcode questions
 | [1004-max-consecutive-ones-iii](https://github.com/DsSrujan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DsSrujan/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/DsSrujan/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DsSrujan/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/DsSrujan/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DsSrujan/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
@@ -360,6 +362,7 @@ leetcode questions
 | [1004-max-consecutive-ones-iii](https://github.com/DsSrujan/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DsSrujan/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DsSrujan/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/DsSrujan/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Greedy
 |  |
 | ------- |
