@@ -9,7 +9,7 @@ class Solution:
                 m=min(m,i-l+1)
                 w_s-=nums[l]
                 l+=1
-        return m if m < float('inf') else 0
+        return 0 if m==float('inf') else m
 
 
         
