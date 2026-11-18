@@ -160,6 +160,7 @@ leetcode questions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DsSrujan/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/DsSrujan/leetcode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DsSrujan/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/DsSrujan/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
