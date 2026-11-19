@@ -5,18 +5,16 @@ class Solution(object):
         :rtype: int
         """
         l=0
-        maxi=0
-        s={}
+        a={}
+        m=0
         for i in range(len(fruits)):
-            s[fruits[i]]=s.get(fruits[i],0)+1
-
-            while len(s)>2:
-                s[fruits[l]]-=1
-                if s[fruits[l]]==0:
-                    del s[fruits[l]]
+            a[fruits[i]]=a.get(fruits[i],0)+1
+            while  len(a)>2:
+                a[fruits[l]]-=1
+                if a[fruits[l]]==0:
+                    del a[fruits[l]]
                 l+=1
-            maxi=max(maxi,i-l+1)
-        return maxi
+            m=max(m,i-l+1)
+        return m     
 
-
-                    
+                
