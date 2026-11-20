@@ -249,6 +249,7 @@ leetcode questions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DsSrujan/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
@@ -267,6 +268,7 @@ leetcode questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DsSrujan/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
@@ -291,6 +293,7 @@ leetcode questions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DsSrujan/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/DsSrujan/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/DsSrujan/leetcode/tree/master/0101-symmetric-tree) |
@@ -385,6 +388,7 @@ leetcode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/DsSrujan/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/DsSrujan/leetcode/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DsSrujan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DsSrujan/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
