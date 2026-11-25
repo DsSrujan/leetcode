@@ -61,6 +61,7 @@ leetcode questions
 | [2089-find-target-indices-after-sorting-array](https://github.com/DsSrujan/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DsSrujan/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/DsSrujan/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2643-row-with-maximum-ones](https://github.com/DsSrujan/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DsSrujan/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DsSrujan/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -225,6 +226,7 @@ leetcode questions
 | [1679-max-number-of-k-sum-pairs](https://github.com/DsSrujan/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DsSrujan/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DsSrujan/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DsSrujan/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DsSrujan/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DsSrujan/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
