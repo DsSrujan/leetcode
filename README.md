@@ -96,6 +96,7 @@ leetcode questions
 | [0268-missing-number](https://github.com/DsSrujan/leetcode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/DsSrujan/leetcode/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/DsSrujan/leetcode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/DsSrujan/leetcode/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DsSrujan/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DsSrujan/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/DsSrujan/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -247,6 +248,7 @@ leetcode questions
 | [1929-concatenation-of-array](https://github.com/DsSrujan/leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/DsSrujan/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DsSrujan/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/DsSrujan/leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/DsSrujan/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
