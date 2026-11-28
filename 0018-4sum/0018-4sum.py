@@ -1,16 +1,17 @@
 class Solution:
     def fourSum(self, nums: list[int], target: int) -> list[list[int]]:
+        n=len(nums)
         a=[]
         nums.sort()
-        for i in range(len(nums)-3):
+        for i in range(n-3):
             if i>0 and nums[i]==nums[i-1]:
                     continue 
-            for j in range(i+1, len(nums)-2):
+            for j in range(i+1, n-2):
                 
                 if j>i+1 and nums[j]==nums[j-1]:
                     continue 
                 l=j+1
-                r=len(nums)-1
+                r=n-1
                 while l<r :
                     t=nums[i]+nums[j]+nums[l]+nums[r]
                     if t==target:
