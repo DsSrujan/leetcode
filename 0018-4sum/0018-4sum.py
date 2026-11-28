@@ -3,9 +3,10 @@ class Solution:
         a=[]
         nums.sort()
         for i in range(len(nums)):
-            for j in range(i+1, len(nums)):
-                if i>0 and nums[i]==nums[i-1]:
+            if i>0 and nums[i]==nums[i-1]:
                     continue 
+            for j in range(i+1, len(nums)):
+                
                 if j>i+1 and nums[j]==nums[j-1]:
                     continue 
                 l=j+1
